@@ -24,6 +24,7 @@ body {
     background: teal;
     height: 80px;
     width: 400px;
+    margin: auto;
 }
 .nav-link { 
     font-family: Georgia, 'Times New Roman', Times, serif;
